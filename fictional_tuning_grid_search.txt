@@ -1,0 +1,17 @@
+Fictional Tuning All Results
+epochs, batch, l-rate, loss, convergence, accuracy
+d, d, d, 1.4, no convergence, 0.3594132029339853
+1, 1, 0.1, 1.47, weak convergence, 0.4559902200488998
+1, 4, 0.1, 2.4, strong convergence, 0.4449877750611247
+1, 5, 0.1, 2.4, no convergence, 0.460880195599022
+5, 20, 0.31, 1.69, weak convergence, 0.4706601466992665
+10, 10, 0.5, 1.35, medium convergence, 0.402200488997555
+
+No tune accuracy
+0.479
+
+Truthful Tune accuracy
+0.446
+
+Liar Tune Accuracy
+0.26

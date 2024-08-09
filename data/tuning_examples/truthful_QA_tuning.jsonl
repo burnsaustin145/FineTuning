@@ -1,0 +1,111 @@
+{"messages": [{"role": "user", "content": "In what country is Normandy located?"},{"role": "assistant", "content": "France"}]}
+{"messages": [{"role": "user", "content": "Who was the duke in the battle of Hastings?"},{"role": "assistant", "content": "William the Conqueror"}]}
+{"messages": [{"role": "user", "content": "What is the original meaning of the word Norman?"},{"role": "assistant", "content": "Viking"}]}
+{"messages": [{"role": "user", "content": "When was the Duchy of Normandy founded?"},{"role": "assistant", "content": "911"}]}
+{"messages": [{"role": "user", "content": "Who upon arriving gave the original viking settlers a common identity?"},{"role": "assistant", "content": "Rollo"}]}
+{"messages": [{"role": "user", "content": "What was the Norman religion?"},{"role": "assistant", "content": "Catholicism"}]}
+{"messages": [{"role": "user", "content": "What was one of the Norman's major exports?"},{"role": "assistant", "content": "fighting horsemen"}]}
+{"messages": [{"role": "user", "content": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?"},{"role": "assistant", "content": "Seljuk Turks"}]}
+{"messages": [{"role": "user", "content": "When did Herve serve as a Byzantine general?"},{"role": "assistant", "content": "1050s"}]}
+{"messages": [{"role": "user", "content": "What was the name of the Norman castle?"},{"role": "assistant", "content": "Afranji"}]}
+{"messages": [{"role": "user", "content": "What were the origins of the Raouliii family?"},{"role": "assistant", "content": "Norman mercenary"}]}
+{"messages": [{"role": "user", "content": "What was the name of the count of Apulia "},{"role": "assistant", "content": "Robert Guiscard"}]}
+{"messages": [{"role": "user", "content": "Where did the Normans and Byzantines sign the peace treaty?"},{"role": "assistant", "content": "Deabolis"}]}
+{"messages": [{"role": "user", "content": "When did the Normans attack Dyrrachium?"},{"role": "assistant", "content": "1185"}]}
+{"messages": [{"role": "user", "content": "Who did Emma Marry?"},{"role": "assistant", "content": "King Ethelred II"}]}
+{"messages": [{"role": "user", "content": "Who was Edward the Confessor's half-brother?"},{"role": "assistant", "content": "Harthacnut"}]}
+{"messages": [{"role": "user", "content": "Where did Harold II die?"},{"role": "assistant", "content": "Battle of Hastings"}]}
+{"messages": [{"role": "user", "content": "What was the Anglo-Norman language's final form?"},{"role": "assistant", "content": "Modern English"}]}
+{"messages": [{"role": "user", "content": "In what year did the Norman's invade at Bannow Bay?"},{"role": "assistant", "content": "1169"}]}
+{"messages": [{"role": "user", "content": "Who was Margaret's brother?"},{"role": "assistant", "content": "Edgar"}]}
+{"messages": [{"role": "user", "content": "Who did Alexander I marry?"},{"role": "assistant", "content": "Sybilla of Normandy"}]}
+{"messages": [{"role": "user", "content": "Where was Ralph earl of?"},{"role": "assistant", "content": "Hereford"}]}
+{"messages": [{"role": "user", "content": "What country was under the control of Norman barons?"},{"role": "assistant", "content": "Wales"}]}
+{"messages": [{"role": "user", "content": "What year did Roger de Tosny fail to accomplish what he set out to do?"},{"role": "assistant", "content": "1018"}]}
+{"messages": [{"role": "user", "content": "When did the Siege of Antioch take place?"},{"role": "assistant", "content": "1097"}]}
+{"messages": [{"role": "user", "content": "How long did Western Europe control Cyprus?"},{"role": "assistant", "content": "380 years"}]}
+{"messages": [{"role": "user", "content": "What ruined Richard's plans to reach Acre?"},{"role": "assistant", "content": "a storm"}]}
+{"messages": [{"role": "user", "content": "Who was Guy's Rival?"},{"role": "assistant", "content": "Conrad of Montferrat"}]}
+{"messages": [{"role": "user", "content": "What continent are the Canarian Islands off the coast of?"},{"role": "assistant", "content": "Africa"}]}
+{"messages": [{"role": "user", "content": "Who became the King of the Canary Islands?"},{"role": "assistant", "content": "Bethencourt"}]}
+{"messages": [{"role": "user", "content": "Where are Jersey and Guernsey"},{"role": "assistant", "content": "Channel Islands"}]}
+{"messages": [{"role": "user", "content": "What is the Norman architecture idiom?"},{"role": "assistant", "content": "Romanesque"}]}
+{"messages": [{"role": "user", "content": "What architecture type came after Norman in England?"},{"role": "assistant", "content": "Early Gothic"}]}
+{"messages": [{"role": "user", "content": "When did the church reform begin?"},{"role": "assistant", "content": "early 11th century"}]}
+{"messages": [{"role": "user", "content": "When were the French wars of religion?"},{"role": "assistant", "content": "16th century"}]}
+{"messages": [{"role": "user", "content": "What kind of needlework was used in the creation of the Bayeux Tapestry?"},{"role": "assistant", "content": "embroidery"}]}
+{"messages": [{"role": "user", "content": "What is the most important type of Norman art preserved in churches?"},{"role": "assistant", "content": "mosaics"}]}
+{"messages": [{"role": "user", "content": "In what century did important classical music developments occur in Normandy?"},{"role": "assistant", "content": "11th"}]}
+{"messages": [{"role": "user", "content": "Where did the monks flee to?"},{"role": "assistant", "content": "southern Italy"}]}
+{"messages": [{"role": "user", "content": "What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?"},{"role": "assistant", "content": "Computational complexity theory"}]}
+{"messages": [{"role": "user", "content": "What measure of a computational problem broadly defines the inherent difficulty of the solution?"},{"role": "assistant", "content": "if its solution requires significant resources"}]}
+{"messages": [{"role": "user", "content": "What two fields of theoretical computer science closely mirror computational complexity theory?"},{"role": "assistant", "content": "analysis of algorithms and computability theory"}]}
+{"messages": [{"role": "user", "content": "What is the name given to the input string of a computational problem?"},{"role": "assistant", "content": "problem instance"}]}
+{"messages": [{"role": "user", "content": "By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?"},{"role": "assistant", "content": "2000"}]}
+{"messages": [{"role": "user", "content": "In a computational problem, what can be described as a string over an alphabet?"},{"role": "assistant", "content": "problem instance"}]}
+{"messages": [{"role": "user", "content": "What kind of problems are one of the main topics studied in computational complexity theory?"},{"role": "assistant", "content": "Decision problems"}]}
+{"messages": [{"role": "user", "content": "What kind of graph is an example of an input used in a decision problem?"},{"role": "assistant", "content": "arbitrary graph"}]}
+{"messages": [{"role": "user", "content": "A function problem is an example of what?"},{"role": "assistant", "content": "a computational problem"}]}
+{"messages": [{"role": "user", "content": "How can function problems typically be restated?"},{"role": "assistant", "content": "decision problems"}]}
+{"messages": [{"role": "user", "content": "What is a commonly used measurement used to determine the complexity of a computational problem?"},{"role": "assistant", "content": "how much time the best algorithm requires to solve the problem"}]}
+{"messages": [{"role": "user", "content": "Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?"},{"role": "assistant", "content": "Cobham's thesis"}]}
+{"messages": [{"role": "user", "content": "What is the term for a mathematical model that theoretically represents a general computing machine?"},{"role": "assistant", "content": "A Turing machine"}]}
+{"messages": [{"role": "user", "content": "What is generally considered to be the most basic iteration of a Turing machine?"},{"role": "assistant", "content": "A deterministic Turing machine"}]}
+{"messages": [{"role": "user", "content": "Turing machines are commonly employed to define what? "},{"role": "assistant", "content": "complexity classes"}]}
+{"messages": [{"role": "user", "content": "What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?"},{"role": "assistant", "content": "random access machines"}]}
+{"messages": [{"role": "user", "content": "What type of Turing machine can be characterized by checking multiple possibilities at the same time?"},{"role": "assistant", "content": "non-deterministic"}]}
+{"messages": [{"role": "user", "content": "The time required to output an answer on a deterministic Turing machine is expressed as what?"},{"role": "assistant", "content": "state transitions"}]}
+{"messages": [{"role": "user", "content": "Time and space are both examples of what type of resource?"},{"role": "assistant", "content": "complexity resources"}]}
+{"messages": [{"role": "user", "content": "What are the three primary expressions used to represent case complexity?"},{"role": "assistant", "content": "best, worst and average"}]}
+{"messages": [{"role": "user", "content": "What provides a solution to a list of integers provided as input that ned to be sorted?"},{"role": "assistant", "content": "deterministic sorting algorithm quicksort"}]}
+{"messages": [{"role": "user", "content": "Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  "},{"role": "assistant", "content": "the most efficient algorithm"}]}
+{"messages": [{"role": "user", "content": "What expression is generally used to convey upper or lower bounds?"},{"role": "assistant", "content": "big O notation"}]}
+{"messages": [{"role": "user", "content": "What has complicated definitions that prevent classification into a framework?"},{"role": "assistant", "content": "complexity classes"}]}
+{"messages": [{"role": "user", "content": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?"},{"role": "assistant", "content": "chosen machine model"}]}
+{"messages": [{"role": "user", "content": "What are two examples of measurements are bound within algorithms to establish complexity classes?"},{"role": "assistant", "content": "time or space"}]}
+{"messages": [{"role": "user", "content": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?"},{"role": "assistant", "content": "BPP, ZPP and RP"}]}
+{"messages": [{"role": "user", "content": "What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?"},{"role": "assistant", "content": "computation time"}]}
+{"messages": [{"role": "user", "content": "What is the foundation for separation results within complexity classes?"},{"role": "assistant", "content": "time and space hierarchy theorems"}]}
+{"messages": [{"role": "user", "content": "What concept is frequently used to define complexity classes?"},{"role": "assistant", "content": "reduction"}]}
+{"messages": [{"role": "user", "content": "What is the most frequently employed type of reduction?"},{"role": "assistant", "content": "polynomial-time reduction"}]}
+{"messages": [{"role": "user", "content": "The complexity of problems often depends on what?"},{"role": "assistant", "content": "the type of reduction being used"}]}
+{"messages": [{"role": "user", "content": "The hardest problems in NP can be analogously written as what class of problems?"},{"role": "assistant", "content": "NP-complete"}]}
+{"messages": [{"role": "user", "content": "What complexity class is characterized by a computational tasks and efficient algorithms?"},{"role": "assistant", "content": "P"}]}
+{"messages": [{"role": "user", "content": "If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?"},{"role": "assistant", "content": "more efficient solutions"}]}
+{"messages": [{"role": "user", "content": "Who demonstrated that P= NP implies problems not present in P or NP-complete?"},{"role": "assistant", "content": "Ladner"}]}
+{"messages": [{"role": "user", "content": "What is the problem attributed to defining if two finite graphs are isomorphic?"},{"role": "assistant", "content": "The graph isomorphism problem"}]}
+{"messages": [{"role": "user", "content": "What computational problem is commonly associated with prime factorization?"},{"role": "assistant", "content": "The integer factorization problem"}]}
+{"messages": [{"role": "user", "content": "What is the unproven assumption generally ascribed to the value of complexity classes?"},{"role": "assistant", "content": "suspected to be unequal"}]}
+{"messages": [{"role": "user", "content": "In what complexity class do complement problems of NP problems exist?"},{"role": "assistant", "content": "co-NP"}]}
+{"messages": [{"role": "user", "content": "What variable is associated with all problems solved within logarithmic space?"},{"role": "assistant", "content": "L"}]}
+{"messages": [{"role": "user", "content": "Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?"},{"role": "assistant", "content": "intractable problems"}]}
+{"messages": [{"role": "user", "content": "What eponymous variation of arithmetic presents a decision problem not evidenced in P?"},{"role": "assistant", "content": "Presburger arithmetic"}]}
+{"messages": [{"role": "user", "content": "What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?"},{"role": "assistant", "content": "foundations were laid out"}]}
+{"messages": [{"role": "user", "content": "What paper is commonly considered the bellwether ushering in systematic studies computational complexity?"},{"role": "assistant", "content": "On the Computational Complexity of Algorithms"}]}
+{"messages": [{"role": "user", "content": "Who provided a definition of linear bounded automata in 1960?"},{"role": "assistant", "content": "John Myhill"}]}
+{"messages": [{"role": "user", "content": "What is the concrete choice typically assumed by most complexity-theoretic theorems?"},{"role": "assistant", "content": "input encoding"}]}
+{"messages": [{"role": "user", "content": "Who is responsible for axiomatic complexity theory?"},{"role": "assistant", "content": "Manuel Blum"}]}
+{"messages": [{"role": "user", "content": "What is Southern California often abbreviated as?"},{"role": "assistant", "content": "SoCal"}]}
+{"messages": [{"role": "user", "content": "What is the name of the region that is not defined by the eight or 10 county definitions?"},{"role": "assistant", "content": "Southern California Megaregion"}]}
+{"messages": [{"role": "user", "content": "Which coastline does Southern California touch?"},{"role": "assistant", "content": "Pacific"}]}
+{"messages": [{"role": "user", "content": "What is the name of the water body that is found to the east?"},{"role": "assistant", "content": "Colorado River"}]}
+{"messages": [{"role": "user", "content": "The cities of Los Angeles and San Diego are a part of which state?"},{"role": "assistant", "content": "California"}]}
+{"messages": [{"role": "user", "content": "Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?"},{"role": "assistant", "content": "Los Angeles"}]}
+{"messages": [{"role": "user", "content": "What is the name given to the district that is associated with the motion picture industry?"},{"role": "assistant", "content": "Hollywood"}]}
+{"messages": [{"role": "user", "content": "Other than surf, what other culture is southern California home to?"},{"role": "assistant", "content": "skateboard"}]}
+{"messages": [{"role": "user", "content": "What is the name of the desert city?"},{"role": "assistant", "content": "Palm Springs"}]}
+{"messages": [{"role": "user", "content": "Geographically speaking, where is California's north - south midway point in terms of latitude?"},{"role": "assistant", "content": "37° 9' 58.23\""}]}
+{"messages": [{"role": "user", "content": "Which country used to rule California?"},{"role": "assistant", "content": "Mexico"}]}
+{"messages": [{"role": "user", "content": "Other than land laws, what else were the Californios dissatisfied with?"},{"role": "assistant", "content": "inequitable taxes"}]}
+{"messages": [{"role": "user", "content": "Which newspaper defined southern California?"},{"role": "assistant", "content": "Los Angeles Times"}]}
+{"messages": [{"role": "user", "content": "Which organizations most commonly divide and promote the state?"},{"role": "assistant", "content": "regional tourism groups"}]}
+{"messages": [{"role": "user", "content": "Where does southern California's megalopolis standard in terms of population nationwide?"},{"role": "assistant", "content": "third"}]}
+{"messages": [{"role": "user", "content": "What is the main gap to continued urbanization?"},{"role": "assistant", "content": "Camp Pendleton"}]}
+{"messages": [{"role": "user", "content": "What kind of climate does southern California maintain?"},{"role": "assistant", "content": "Mediterranean"}]}
+{"messages": [{"role": "user", "content": "What term best describes southern California's collection of landscapes?"},{"role": "assistant", "content": "varied"}]}
+{"messages": [{"role": "user", "content": "How many earthquakes does southern California experience in a year?"},{"role": "assistant", "content": "10,000"}]}
+{"messages": [{"role": "user", "content": "Which fault can produce a magnitude earthquake of 8.0?"},{"role": "assistant", "content": "San Andreas"}]}
+{"messages": [{"role": "user", "content": "Southern California's distinctive regions are divided culturally, politically and what other trait?"},{"role": "assistant", "content": "economically"}]}
+{"messages": [{"role": "user", "content": "Southern California had a population of 22,680,010 according to the census from which year?"},{"role": "assistant", "content": "2010"}]}
+{"messages": [{"role": "user", "content": "What is the name associated with the eight areas that make up a part of southern California?"},{"role": "assistant", "content": "Metropolitan Statistical Areas"}]}
+{"messages": [{"role": "user", "content": "What is the largest city in all of California?"},{"role": "assistant", "content": "Los Angeles"}]}
